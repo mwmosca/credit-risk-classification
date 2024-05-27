@@ -1,11 +1,21 @@
 # credit-risk-classification
 Module 20 Challenge
 
-## Context
-This project demonstrates techniques to train and evaluate a model based on loan risk. Using a dataset of historical lending activity from a peer-to-peer lending services company, a model is built that can identify the creditworthiness of borrowers.
-
-## Usage
-Library requirements:
+## Python Library Requirements
 - pandas
-- sklearn<br><br>
+- sklearn
+
+## Report
+### Overview
+The purpose of this analysis is to use historical lending activity to predict the creditworthiness of borrowers. The target for the analysis is to categorize loans as "healthy" or "high-risk". Features used in the model include:
+- loan size
+- loan interest rate
+- borrower income
+- borrower debt-to-income ratio
+- borrower number of accounts
+- borrower derogatory marks
+- borrower debt<br><br>
+77,536 records were analyzed with machine learning using a logistic regression model. 75% of the records were used to train the model and 25% of the records were used to test it.
+
+### Results
 WiP
