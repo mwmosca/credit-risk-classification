@@ -6,5 +6,6 @@ This project demonstrates techniques to train and evaluate a model based on loan
 
 ## Usage
 Library requirements:
-- 
+- pandas
+- sklearn<br><br>
 WiP
